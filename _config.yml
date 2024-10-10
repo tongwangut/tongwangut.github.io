@@ -21,11 +21,10 @@
 domain: tongwangut.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tongwangut.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
-title: Tong Wang's Homepage
+title: Tong Wang
 email: tong.wang@utexas.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Tong Wang's Homepage
-twitter_username: 
+
+google_analytics: G-KTX55J7MZD
 github_username:  tongwangut
 
 # Build settings
